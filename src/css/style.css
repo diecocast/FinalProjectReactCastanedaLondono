@@ -1,4 +1,11 @@
+.endshopform{
+  margin-top: 10%;
+  margin-left: 10%;
+}
+.product-cart{
+  padding: 5%;
 
+}
 .cargando{ 
   position: relative; 
   color: #000000;
